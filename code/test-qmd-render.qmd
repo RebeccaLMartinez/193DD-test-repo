@@ -1,0 +1,17 @@
+---
+title: "Test Repo Code"
+author: "Rebecca Martinez"
+format: pdf
+---
+
+# 1. Setup
+
+```{r packages}
+
+library(tidyverse)
+
+
+
+
+```
+
