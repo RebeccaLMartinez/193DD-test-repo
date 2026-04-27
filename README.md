@@ -1,4 +1,4 @@
-# 193DD-test-repo
+# 193DD Test Repository
 ## Spring 2026
 
 # General Information
