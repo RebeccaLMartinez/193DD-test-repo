@@ -14,3 +14,5 @@ What are they used for?
 # Rendered Output
 
 Where can people find rendered output of code run in this repository?
+
+[Rendered PDF](https://github.com/RebeccaLMartinez/193DD-test-repo/blob/main/code/test-qmd-render.pdf)
